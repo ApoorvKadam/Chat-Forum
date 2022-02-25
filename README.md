@@ -1,3 +1,3 @@
 # Chat-Forum
 The whole system is a Simple Chat Forum in Javascript with an AngularJs framework. This project needs internet to work effectively. Here one can have chat with the dummy user. There are four users in this system including you. One of the dummies returns the echo of whatever you say to them. Each dummy has their name as a user for the chat. One of the dummies will wait for your message and will give you a response in a specific time.\
-To make it a real-time chat system, you can implement some SocketJs code. It simply allows you to give your system multiple port connection for the same program. 
+To make it a real-time chat system, you can implement some SocketJs code. It allows you to give your system multiple port connection for the same program. 
